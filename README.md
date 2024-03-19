@@ -24,3 +24,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odev-victor&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Odev-victor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+O GFABRIEL E VIADAO
