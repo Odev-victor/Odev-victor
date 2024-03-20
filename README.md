@@ -4,7 +4,7 @@
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/oo_vitin/)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https:https://www.linkedin.com/in/victor-raphael-74a96027b)
+)](https://www.linkedin.com/in/victor-raphael-74a96027b)
 [![blog](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://te.me/5531998343108)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Odev-victor&show_icons=true&theme=dark)
