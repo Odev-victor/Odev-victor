@@ -1,6 +1,7 @@
 ### Ola! Sou Victor Raphael   😄
+ㅤ
 
-
+### Skills   🖥️
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,mysql,)](https://skillicons.dev)
 
 
@@ -11,7 +12,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Minhas redes sociais 🖥️
+### Minhas redes sociais 🌐
 
 
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531998343108)
