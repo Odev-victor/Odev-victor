@@ -1,7 +1,7 @@
 ### Ola! Sou Victor Raphael   😄
 ㅤ
 
-### Skills   🖥️
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,mysql,)](https://skillicons.dev)
 
 
