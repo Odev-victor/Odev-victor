@@ -1,13 +1,18 @@
-### Ola! Sou Victor Raphael,   😄
-
+### Ola! Sou Victor Raphael   😄
+ㅤ
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,mysql,)](https://skillicons.dev)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ㅤ
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Odev-victor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Minhas redes sociais 🖥️
+
+ㅤ
+
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531998343108)
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/oo_vitin/)
