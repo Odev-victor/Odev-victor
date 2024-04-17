@@ -1,7 +1,6 @@
 
-<div align="center">
-  <img src= "https://scontent.xx.fbcdn.net/v/t1.15752-9/436088112_7493399257369956_5433596474558631000_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QMZ53PElguAAb6dn3oC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QFjcn23Ef6JpqC2rm7O8b4RxaPIvj_GnF-z9HQ6Rhl_cQ&oe=6646CE3B" alt="Texto alternativo da imagem">
-</div>
+![Codigo](https://scontent.xx.fbcdn.net/v/t1.15752-9/436088112_7493399257369956_5433596474558631000_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QMZ53PElguAAb6dn3oC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QFjcn23Ef6JpqC2rm7O8b4RxaPIvj_GnF-z9HQ6Rhl_cQ&oe=6646CE3B)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
