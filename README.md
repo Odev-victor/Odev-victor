@@ -1,8 +1,9 @@
 
 <div align="center">
   <img src= "https://scontent.xx.fbcdn.net/v/t1.15752-9/436088112_7493399257369956_5433596474558631000_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QMZ53PElguAAb6dn3oC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QFjcn23Ef6JpqC2rm7O8b4RxaPIvj_GnF-z9HQ6Rhl_cQ&oe=6646CE3B" alt="Texto alternativo da imagem">
+</div>
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,mysql,)](https://skillicons.dev)
 
@@ -21,7 +22,3 @@
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-raphael-74a96027b)
 [![blog](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://te.me/5531998343108)
 [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srvictorraphael@gmail.com)
-
-
-</div>
-
